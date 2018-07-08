@@ -1,0 +1,10 @@
+# Visual Studio Files
+*.vcxproj.user
+
+# Visual Studio Directories
+Debug/
+Release/
+.vs/
+
+# Other files
+*.bmp
